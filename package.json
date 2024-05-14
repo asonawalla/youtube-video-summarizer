@@ -23,6 +23,6 @@
 	},
 	"dependencies": {
 		"openai": "^4.20.1",
-		"youtube-transcript": "^1.0.6"
+		"youtube-transcript": "^1.2.1"
 	}
 }
